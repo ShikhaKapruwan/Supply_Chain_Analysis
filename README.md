@@ -50,8 +50,8 @@ Dashboard Highlights:
 - 🔄 *Inventory Turnover by Product*
 - 📍 Slicers and filters for dynamic drill-down by category, SKU, or turnover
 
-  ## Dashboard
-    ![Uploading supply_chain_dashboard.png…]()
+## Dashboard
+   ![supply_chain_dashboard](https://github.com/user-attachments/assets/a950a415-45f0-4f06-a47c-24c78065ef2b)
 
 ## 📌 Key Insights
 
