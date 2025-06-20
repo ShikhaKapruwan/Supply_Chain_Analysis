@@ -50,6 +50,9 @@ Dashboard Highlights:
 - 🔄 *Inventory Turnover by Product*
 - 📍 Slicers and filters for dynamic drill-down by category, SKU, or turnover
 
+  ## Dashboard
+  https://github.com/ShikhaKapruwan/Supply_Chain_Analysis/blob/main/supply_chain_dashboard.png
+
 ## 📌 Key Insights
 
 - A-class products contribute ~70% of revenue, but many are at low stock levels.
