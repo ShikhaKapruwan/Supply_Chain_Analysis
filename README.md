@@ -51,7 +51,7 @@ Dashboard Highlights:
 - 📍 Slicers and filters for dynamic drill-down by category, SKU, or turnover
 
   ## Dashboard
-<a href="https://github.com/ShikhaKapruwan/Supply_Chain_Analysis/blob/main/supply_chain_dashboard.png">View dashboard</a>
+    ![Uploading supply_chain_dashboard.png…]()
 
 ## 📌 Key Insights
 
